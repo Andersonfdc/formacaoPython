@@ -16,3 +16,13 @@ menseger = f'''
  lorenipsu lorenipsu
 '''
 print(menseger)
+
+# imprime a letra na posição informada
+part_name = "Python"
+print(part_name[0])
+
+# verifica se a palavra existe na frase
+frase = "O rato roeu a roupa do rei de roma"
+
+if "rato" in frase:
+    print("Existe")
